@@ -1,10 +1,23 @@
 # 👋 Hi, I'm Prayag Singh
 
-### Full Stack Developer | Web & Mobile Applications
+### Full Stack Developer | AI & GenAI | Cloud Computing
 
-I build **scalable, user-focused applications** with modern web technologies, clean APIs, databases, and real-world data.
+B.Tech Data Science student with hands-on experience building **full-stack web and mobile applications** using modern frontend, backend, and cloud technologies. Skilled in **REST APIs, databases, AI/GenAI integrations, cloud deployment, and data-driven development**, with a focus on creating practical, scalable, and user-focused software solutions.
 
-Currently focused on **Full Stack Web Development**, while exploring **AI/ML, Cloud Computing, and Data-driven applications**.
+<p align="left">
+  <a href="https://prayag-singh-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-8B5E3C?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <!-- <a href="https://github.com/PrayagSingh9A7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a> -->
+  <a href="https://www.linkedin.com/in/prayag-singh9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Prayagsingh912/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -209,17 +222,7 @@ Hands-on experience with cloud architecture, virtualization, security, cloud ser
 
 ---
 
-## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/prayag-singh9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Prayagsingh912/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
 
----
 
 ### 💡 *Build. Learn. Ship. Repeat.*
